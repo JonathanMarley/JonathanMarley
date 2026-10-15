@@ -31,57 +31,7 @@ Desarrollador Junior
 </p>
 <br>
 <!-------------------------->
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="" title="">
-        <img align="center" width=100%    alt="Link" /></a>
-      </p>
-    <p align="center">
-        <a href="" target="blank"><img align="center" src=""  /></a>
-      <a href="" target="blank"><img align="center" src="" alt="@jonathanmarley" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="" title="" alt="@jonathanmarley">
-        <img align="center" width=100%    alt="Link" /></a>
-      </p>
-    <p align="center">
-        <a href="" target="blank"><img align="center" src=""  /></a>
-      <a href="" target="blank"><img align="center" src="" alt="@jonathanmarley" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="" title="">
-        <img align="center" width=100% src=""   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="" target="blank"><img align="center" src=""  /></a>
-      <a href="" target="blank"><img align="center" src="" /></a>
-    </p>       
-</td>
-
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="" title="">
-        <img align="center" width=100% src=""   alt="" /></a>
-      </p>
-    <p align="center">
-        <a href="" target="blank"><img align="center" src="" alt="@jonathanmarley"  /></a>
-      <a href="" target="blank"><img align="center" src="" alt="@JonathanMarley" /></a>
-    </p>       
-</td>
-  
-</tr>
-</table>
-  </div>
 <br>
 <br><br>
 <br>
