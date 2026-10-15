@@ -26,7 +26,7 @@ Desarrollador Junior
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,flutter,py,css,html,js,mysql,sqlite,firebase,git,github,line=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,python,css,html,js,firebase,line=12" />
   </a>
 </p>
 <br>
